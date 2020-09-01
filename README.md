@@ -1,15 +1,26 @@
-# Arabic عربي README
+# Arabic عربي 
 
-  
+This is a small snippets extension to generate Arabic dummy text for titles or paragraphs. 
+It works on HTML, JavaScript, React, PHP, Python.
 
-This is the README for your extension "Arabic عربي". After writing up a brief description, we recommend including the following sections.
 
-## Snippets
+# Install
+- Open VS Code
+- Press F1
+- Type "install"
+- Select "Extensions: Install Extension".
+- Select "Arabic عربي" from the list
 
->Without \<p> Tags
+# Usage
+Type any of the snippets below i.e `!ar1p` in any HTML, JavaScript, PHP, Python file then press `Tab` or `Enter` key.
 
-| Paragraphs |
-| - |
+There are 2 types of each snippet one has only pure lorem text and the other is including \<p> tags and You can select to use either ones i.e `!ar1p` for pure text, `!ar1p-t` to include the tags.
+
+# Snippets
+
+### Without \<p> Tags
+
+> Paragraphs
 
 | Trigger | Paragraphs Generated |
 | -: | - |
@@ -20,8 +31,7 @@ This is the README for your extension "Arabic عربي". After writing up a brie
 
 <br>
 
-| Words |
-| - |
+> Words
 
 | Trigger | Words Generated |
 | -: | - |
@@ -33,10 +43,9 @@ This is the README for your extension "Arabic عربي". After writing up a brie
 
 <br>
 
-> With \<p> Tags
+### With \<p> Tags
 
-| Paragraphs |
-| - |
+> Paragraphs
 
 | Trigger | Paragraphs Generated |
 | -: | - |
@@ -47,8 +56,7 @@ This is the README for your extension "Arabic عربي". After writing up a brie
 
 <br>
 
-| Words |
-| - |
+> Words
 
 | Trigger | Words Generated |
 | -: | - |
@@ -57,34 +65,22 @@ This is the README for your extension "Arabic عربي". After writing up a brie
 | `!ar20w-t` | 20 Words|
 | `!ar40w-t` | 40 Words|
 | `!ar80w-t` | 80 Words|
-
-
-  
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-\!\[feature X\]\(images/feature-x.png\)
   
 
 
-## Release Notes
+# Release Notes
 
-  
-
-Users appreciate release notes as you update your extension.
-
-  
 
 ### 1.0.0
 
 Initial release of Arabic عربي
 
-<br>
+
+# Want to Contribute
 
 #### Main Project [http://text.crettiva.com/](http://text.crettiva.com/)
 
-#### Want to Contribute [Github Project ](https://help.github.com/articles/markdown-basics/)
+#### To Contribute [Github Project ](https://github.com/kamalneckolas/arabic-lorem)
 
   
 
