@@ -3,7 +3,7 @@
     "displayName": "Arabic عربي",
     "description": "Advanced Arabic lorem dummy text snippets for HTML, React, Javascript, PHP and Python",
     "version": "1.0.0",
-    "publisher": "Kamal Hasan",
+    "publisher": "KamalHasan",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.48.0"
