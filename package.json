@@ -1,0 +1,55 @@
+{
+    "name": "advanced-arabic-lorem",
+    "displayName": "Arabic عربي",
+    "description": "Advanced Arabic lorem dummy text snippets for HTML, React, Javascript, PHP and Python",
+    "version": "1.0.0",
+    "publisher": "Kamal Hasan",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kamal/Arabic-Lorem-Ipsum"
+    },
+    "keywords": [
+        "Advanced arabic lorem",
+        "arabic lorem",
+        "arabic lorem ipsum",
+        "lorem ipsum",
+        "dummy arabic text",
+        "dummy text",
+        "dummy arabic words",
+        "dummy content",
+        "مولد النصوص",
+        "لورم ابسوم"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+
+}
